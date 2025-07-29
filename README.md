@@ -1,3 +1,5 @@
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/122735b7-6801-4ed4-bcda-dfdf51399e5f/thumbnail" >
-</p>
+- I'm pursuing a computer science degree at Vietnamese-German university, and doing a backend course on Boot.dev
+- My current focus is web development, especially back end
+- I'm familiar with Python, some JS for front end, basic HTML and CSS
+- I love to build meaningful projects that benefits myself and hopefully others
+
