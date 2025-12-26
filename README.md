@@ -2,7 +2,7 @@
 
 **Backend Developer**
 
-I'm a computer science student passionate about building scalable backends, and launching small, useful products that make an impact.
+I'm a computer science student passionate about building scalable backends, and launching useful products that make an impact.
 
 ---
 
