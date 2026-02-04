@@ -2,14 +2,12 @@
 
 **Backend Developer**
 
-I'm a computer science student passionate about building scalable backends, and launching useful products that make an impact.
-
+I'm a computer science student passionate about building scalable backend systems.
 ---
 
 ## About Me
 
-- Learning **Go** for backend development and building skills for a backend internship
-- Exploring **Networking and Cloud** to prepare for future career paths
+- Learning **Go** and **Java** for backend development and building skills for a backend internship
 
 ---
 
